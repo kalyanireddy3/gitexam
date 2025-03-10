@@ -1,2 +1,4 @@
 hey kalyani this is a file 2 nd modificatiom 
 so created branch1 and trying modifications
+
+branch 1 2 nd modification to understand merge conflicts
